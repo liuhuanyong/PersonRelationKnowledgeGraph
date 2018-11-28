@@ -38,7 +38,7 @@ ChinesePersonRelationGraph, person relationship extraction based on nlp methods.
 
 # 人物关系基础知识库
 # 刘备人物关系网
-![image](https://github.com/liuhuanyong/ChinesePersonRelationGraph/blob/master/image/rel_graph1.png)
+![image](https://github.com/liuhuanyong/ChinesePersonRelationGraph/blob/master/image/person_graph1.png)
 
 # 韩寒人物关系网
 ![image](https://github.com/liuhuanyong/ChinesePersonRelationGraph/blob/master/image/rel_graph2.png)
