@@ -83,7 +83,7 @@ class PersonSpider:
         history_names = [i.strip() for i in open('history_person_names.txt') if len(i.strip()) > 1]
         star_names = [i.strip() for i in open('star_person_names.txt') if len(i.strip()) > 1]
         name_dict = {
-           # 'star': star_names,
+            'star': star_names,
             'history': history_names,
             }
         for label, names in name_dict.items():
@@ -194,20 +194,6 @@ class PersonSpider:
 
 if __name__ == '__main__':
     handler = PersonSpider()
-    # handler.spider('张学友')
-    # while 1:
-    #     query = input('entere an person to spider:')
-    #     res = handler.spider(query)
-    #     print(res)
-
-    # handler.update_data()
-    # iteration = 10
-    # while(iteration):
-    #     # handler.read_persons()
-    #     handler.update_data()
-    #     print(iteration)
-    #     iteration -= 1
-    # handler.read_persons()
-    handler.modify_data()
+    handler.spider_main()
 
 
