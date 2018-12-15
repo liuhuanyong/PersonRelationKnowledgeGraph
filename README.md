@@ -115,3 +115,11 @@ ChinesePersonRelationGraph, person relationship extraction based on nlp methods.
       <钱三强, 钱民协, 女儿>	<e1>钱三强</e1>女儿<e2>钱民协</e2>：三钱中两钱曾是邻居1.0
       <杨元龙, 杨敏德, 女儿>	1978年由<e1>杨元龙</e1>创立的香港溢达集团，早在20年前就交班到女儿<e2>杨敏德</e2>的手中1.0
 # 未完待续
+
+
+
+# 备注
+如有自然语言处理、知识图谱、事理图谱、社会计算、语言资源建设等问题或合作，可联系我：    
+1、我的github项目介绍：https://liuhuanyong.github.io  
+2、我的csdn博客：https://blog.csdn.net/lhy2014  
+3、about me:刘焕勇，中国科学院软件研究所，lhy_in_blcu@126.com  
